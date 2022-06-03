@@ -1,0 +1,11 @@
+# Algorithm Directory
+- [algo_utils.py](algo_utils.py)
+    - contains some useful function (eg. plotting etc)
+- [battery_optimise.py](battery_optimise.py)
+    - contains linear programming model for dispatch behaviour problem
+- [battery_optimise.ipynb](battery_optimise.ipynb)
+    - run linear programming model for mandatary dataset
+- [battery_optimise_bonus.ipynb](battery_optimise_bonus.ipynb)
+    - run linear programming model for bonus dataset
+- [check.py](check.py)
+    - check if the output result is valid (overcharge/overdischarge issue)

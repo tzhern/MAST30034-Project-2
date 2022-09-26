@@ -1,4 +1,5 @@
-# Energy Market and Battery Optimization
+# The University of Melbourne - MAST30034 Data Science Project
+## Energy Market and Battery Optimization
 
 Group Name:  
 - Group 40
